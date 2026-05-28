@@ -20,7 +20,7 @@ spec:
       containers:
       - name: demo-app
 
-        image: kartikdevopsvf/demo-app:v1
+        image: kartikdevops/gitops-demo:v2
 
         imagePullPolicy: Always
 
